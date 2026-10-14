@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Robin%20Villier&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Support%20%E2%80%A2%20Python%20%E2%80%A2%20Homelab&descAlignY=58&descSize=16" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=From+3D+Animation...;...to+fixing+real+users'+problems.;Support+Tech+%40+Force+Plus+(Lyon,%20Confluence);Dev+%7C+Windows+%7C+Linux+%7C+AD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=From+3D+Animation...;...to+fixing+real+users'+problems.;Support+Tech+%40+Force+Plus+(Lyon,%20Confluence);Python+%7C+Windows+%7C+Linux+%7C+AD" alt="Typing SVG" /></a>
 
 📍 Lyon, France &nbsp;·&nbsp; 🇫🇷 / 🇺🇸
 
@@ -15,9 +15,9 @@
 - 🛠️ **IT support technician** at Force Plus, Lyon Confluence.
 - 🧠 Currently learning all IT Support concepts and enhancing my dev stack.
 - 🎓 **Google IT Support Professional Certificate**.
-- 🎬 Ex **Rigging TD** — 4 years building rigs & pipeline tools for 3D animation (Python, Maya).
+- 🎬 Ex **Rigging TD** - 4 years building rigs & pipeline tools for 3D animation (Python, Maya).
 - 🏠 I run a **homelab** to apply IT support concepts: Active Directory, Windows/Linux servers, Home-Assistant, self-hosted services.
-- 🧑‍🏫 Former **Python & rigging trainer** — I like explaining things clearly.
+- 🧑‍🏫 Former **Python & rigging trainer** - I like explaining things clearly.
 - ✍️ I write about my career switch on my [**IT Support blog**](https://robinvillier.github.io/it_support_blog).
 
 ### 🧰 Tech stack
@@ -56,4 +56,4 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer&text=À%20bientôt.&fontSize=30&fontColor=ffffff&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer&text=See%20you%20soon.&fontSize=30&fontColor=ffffff&fontAlignY=70" width="100%"/>
