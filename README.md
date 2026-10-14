@@ -13,6 +13,7 @@
 ### 👋 About me
 
 - 🛠️ **IT support technician** at Force Plus, Lyon Confluence.
+- 🧠 Currently learning all IT Support concepts and enhancing my dev stack.
 - 🎓 **Google IT Support Professional Certificate**.
 - 🎬 Ex **Rigging TD** — 4 years building rigs & pipeline tools for 3D animation (Python, Maya).
 - 🏠 I run a **homelab** to apply IT support concepts: Active Directory, Windows/Linux servers, Home-Assistant, self-hosted services.
@@ -40,11 +41,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🚧 Currently working on
-
-- 🐍 **Notion → HTML pipeline** — Python tool turning Notion exports into custom-templated pages (BeautifulSoup + Dominate).
-- 🗺️ Following [**roadmap.sh**](https://roadmap.sh) — Linux, Python for Data Analysis, Django, etc.
 
 ### 📊 GitHub stats
 
