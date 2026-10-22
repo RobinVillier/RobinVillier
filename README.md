@@ -42,10 +42,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### 📊 GitHub stats
+### 📊 Github & Learning stats
 
 <div>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinVillier&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinVillier&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://roadmap.sh">
+    <img height="139" src="https://roadmap.sh/card/wide/6aa1738f18ba01b1a86d26b7?variant=dark" alt="roadmap.sh" />
+  </a>
 </div>
 
 ### 📫 Reach me
